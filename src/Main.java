@@ -33,7 +33,7 @@ public class Main {
             case '/':
                 if (num2 != 0) {
                     resultado = num1 / num2;
-                    System.out.println("Resultado: " + resultado);
+                    System.out.println("resultado: " + resultado);
                 } else {
                     System.out.println("divisão por zero não é permitida.");
                 }
